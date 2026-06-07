@@ -1,1 +1,1 @@
-# AutismDetectionusingEEGSignals
+# Autism_Detection_using_EEGSignals
